@@ -11,9 +11,11 @@ Then it runs multiple XSL transformations until it finally creates a XMLTV compa
 
 ## Prerequisites
 I have put both the scripts together on my server running Windows Server 2016 Essentials, so I guess the scripts will run fine on any Windows 10 machine.
+
 The DownloadEPG script runs against my DM7080 with OE2.5 (DreamOS) installed, but I gues it will run also on other receivers as soon as following Enigma2 Plugins are installed:
   * enigma2-plugin-extensions-webinterface
   * enigma2-plugin-systemplugins-hrtunerproxy (https://github.com/OpenViX/HRTunerProxy)
+
 And last but not least you need to run a Plex Media Server somewhere with DVR pointed to an Enigma receiver to have a use for the XMLTV file. I guess you need the Plex Pass for the LiveTV/DVR functionality to be available.
 
 
