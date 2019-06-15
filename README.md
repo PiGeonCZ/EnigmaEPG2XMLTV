@@ -1,5 +1,4 @@
-
-#EnigmaEPG2XMLTV
+# EnigmaEPG2XMLTV
 Set of powershell scripts and xslt templates for schedulling, dowloading and converting EPG from Enigma 2 DVB S/T/C receivers with HRTunerProxy plugin installed.
 
 I have finally managed to put together a version which somebody else could "easily" use, so here you are ;)
