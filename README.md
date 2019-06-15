@@ -41,4 +41,8 @@ or
 .\RegisterScheduledTask.ps1 192.168.24.7 aaaa.xml 'D:\Plex Media Server\EnigmaEPG2XMLTV\EPG\'
 ```
 
-
+## Note
+I am not by any mean a developer, everything I am capable of is putting together some scripts based on examples.
+Even though I knew about XML I have never had a need to work with it. And I didn't even know about the XSL transformation before.
+I am sure it would have been easier to parse all the EPG files and combine them together inside one script, but this way I could learn something new ;)
+I will be glad for any idea how to improve it. I am aware of few glitches in the final xml, but I wasn't able to remove it, fortunatelly it has no influance on the result.
